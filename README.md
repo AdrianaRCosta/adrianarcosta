@@ -1,6 +1,6 @@
 ## Olá, eu sou a Adriana Costa 👋
 
-- 🌱 Estudando Gestão em Tecnologia da Informação
+- 🌱 Formada em Gestão em Tecnologia da Informação
 
 ## Contatos com as tecnologias
   <div style="display: inline_block"><br>
