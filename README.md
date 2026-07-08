@@ -1,6 +1,7 @@
 ## Olá, eu sou a Adriana Costa 👋
 
 - 🌱 Formada em Gestão em Tecnologia da Informação
+- 🌱 Pós-graduada em Análise de Dados
 
 ## Contatos com as tecnologias
   <div style="display: inline_block"><br>
